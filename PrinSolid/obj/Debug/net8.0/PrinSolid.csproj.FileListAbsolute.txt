@@ -1,0 +1,14 @@
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.AssemblyInfoInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.AssemblyInfo.cs
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\bin\Debug\net8.0\PrinSolid.exe
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\bin\Debug\net8.0\PrinSolid.deps.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\bin\Debug\net8.0\PrinSolid.runtimeconfig.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\bin\Debug\net8.0\PrinSolid.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\bin\Debug\net8.0\PrinSolid.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\refint\PrinSolid.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\PrinSolid.genruntimeconfig.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trsbajos de C++\Practica - Evaluacion\Evaluacion\PrinSolid\obj\Debug\net8.0\ref\PrinSolid.dll

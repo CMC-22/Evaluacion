@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\consoleapp1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B00C0A2-ADB7-4DA3-AEFE-5363A28C9B40}|AsyncAwait\\AsyncAwait.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\asyncawait\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B00C0A2-ADB7-4DA3-AEFE-5363A28C9B40}|AsyncAwait\\AsyncAwait.csproj|solutionrelative:asyncawait\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\prinsolid\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|solutionrelative:prinsolid\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\prinsolid\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|solutionrelative:prinsolid\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\prinsolid\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|solutionrelative:prinsolid\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\prinsolid\\taskui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|solutionrelative:prinsolid\\taskui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\prinsolid\\programbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED32C2-D908-44BB-831A-5FC08C237D92}|PrinSolid\\PrinSolid.csproj|solutionrelative:prinsolid\\programbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trsbajos de c\u002B\u002B\\practica - evaluacion\\evaluacion\\consoleapp1\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2CB5C0-2C5C-4392-8A07-547BC16546D0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\TaskManager.cs",
+              "RelativeDocumentMoniker": "PrinSolid\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\TaskManager.cs",
+              "RelativeToolTip": "PrinSolid\\TaskManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:19:29.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\Task.cs",
+              "RelativeDocumentMoniker": "PrinSolid\\Task.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\Task.cs",
+              "RelativeToolTip": "PrinSolid\\Task.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:19:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgramBase.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\ProgramBase.cs",
+              "RelativeDocumentMoniker": "PrinSolid\\ProgramBase.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\ProgramBase.cs",
+              "RelativeToolTip": "PrinSolid\\ProgramBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:19:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "PrinSolid\\ITaskManager.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\ITaskManager.cs",
+              "RelativeToolTip": "PrinSolid\\ITaskManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:19:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataReader.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\AsyncAwait\\DataReader.cs",
+              "RelativeDocumentMoniker": "AsyncAwait\\DataReader.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\AsyncAwait\\DataReader.cs",
+              "RelativeToolTip": "AsyncAwait\\DataReader.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:02:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\Empleado.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Empleado.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\Empleado.cs",
+              "RelativeToolTip": "ConsoleApp1\\Empleado.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:37:00.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\ICalculable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\ICalculable.cs",
+              "RelativeToolTip": "ConsoleApp1\\ICalculable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:36:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Persona.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\ConsoleApp1\\Persona.cs",
+              "RelativeToolTip": "ConsoleApp1\\Persona.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:35:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskUI.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\TaskUI.cs",
+              "RelativeDocumentMoniker": "PrinSolid\\TaskUI.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trsbajos de C\u002B\u002B\\Practica - Evaluacion\\Evaluacion\\PrinSolid\\TaskUI.cs",
+              "RelativeToolTip": "PrinSolid\\TaskUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:19:32.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
